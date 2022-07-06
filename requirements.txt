@@ -3,4 +3,4 @@ Werkzeug<0.13.0,>=0.12.0
 simplekml
 flask_cors
 BeautifulSoup4
-lxml==3.7.3
+lxml==4.9.1
